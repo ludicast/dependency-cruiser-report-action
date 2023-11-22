@@ -81,7 +81,7 @@ with:
   package-manager: npm
 ```
 
-Or the same with `bun` or `pnpm`.
+Do likewise with `bun` or `pnpm`.
 
 ### Customizing working directory
 
