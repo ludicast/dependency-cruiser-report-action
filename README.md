@@ -81,12 +81,7 @@ with:
   package-manager: npm
 ```
 
-or
-
-```yaml
-with:
-  package-manager: pnpm
-```
+Or the same with `bun` or `pnpm`.
 
 ### Customizing working directory
 
